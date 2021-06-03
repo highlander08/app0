@@ -1,6 +1,14 @@
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://th.bing.com/th/id/R2c4228e5c95700cb2497a84b09b6ca03?rik=gS9hRq7g7ZKWwQ&riu=http%3a%2f%2f1.bp.blogspot.com%2f-22KtXo-QD4o%2fU4VHXTI1xtI%2fAAAAAAAAA90%2ffsmaosKNLc8%2fs1600%2fdesenho%2bde%2bsinal%2bde%2bmais%2bpara%2bimprimir%2be%2bcolorir.jpg&ehk=4Lr88snhPRVIYiLpHz5c5clTP7j8pA%2ftg3dF24iaTds%3d&risl=&pid=ImgRaw" width="30" alt="Nest Logo" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.mongodb.com/" target="blank"><img src="https://blog-assets.spot.io/app/uploads/2017/07/17202136/MongoDB-1440x728.jpg" width="320" alt="Nest Logo" /></a>
+</p>
+
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
